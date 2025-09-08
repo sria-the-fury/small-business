@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Plumber",
-  description: "We build, we build",
+  title: "Pipe Doctor",
+  description: "Welcome to Pipe Doctor. We Fix, we build",
 };
 
 export default function RootLayout({
