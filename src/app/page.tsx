@@ -3,7 +3,7 @@
 export default function Home() {
   return (
       <div>
-          <h1>Hello, Plumber</h1>
+          <h1>This will be homepage</h1>
       </div>
      );
 }
